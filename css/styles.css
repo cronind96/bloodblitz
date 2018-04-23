@@ -47,13 +47,5 @@ body{
 }
 
 h1, h2, h3, h4 {
-	color: #9C96FF
-}
-
-#centre {
-	background-color: #E4E4E4;
-}
-
-.img-fluid img-thumbnail {
-	background-color: #E4E4E4;
+	font-family: 'Belleza', sans-serif;
 }
